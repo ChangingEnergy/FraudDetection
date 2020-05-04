@@ -1,0 +1,10 @@
+name: basic-environment
+dependencies:
+  - pip:
+    - pandas
+    - numpy
+    - matplotlib
+    - sklearn
+    - collections
+    - xlrd
+    - RISE
